@@ -174,3 +174,11 @@ Et connaissances.
 	Il est connu pour avoir créé en 1991 (à 22 ans) le noyau Linux dont il continue de diriger le développement. Il en est considéré comme le « dictateur bienveillant ».
 	Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d'enregistrement et de planification des plongées Subsurface (en). Il a été honoré, avec Shinya Yamanaka, du prix Millennium Technology, en 2012, décerné par la Technology Academy Finland (en) « en reconnaissance pour sa création d'un nouveau système d'exploitation open source pour les ordinateurs ayant conduit au noyau Linux, largement utilisé. ». Il est également lauréat 2014 du Computer Pioneer Award, décerné par l'IEEE Computer Society.
 -Source: https://fr.wikipedia.org/wiki/Linus_Torvalds
+
+20)Combien coûte un nom de domaine ?
+	.com -> 9.99€HT/an
+	.fr -> 7.99€HT/an
+	.net -> 9.99€HT/an
+	.org -> 11.99€HT/an
+	.eu -> 7.99€HT/an
+-Source: http://www.netissime.com/nom_de_domaine/tarif-nom-de-domaine/
