@@ -204,3 +204,7 @@ Et connaissances.
 	Le pirate est une personne qui viole les droits d'autrui ou des sociétés à son profit. Les pirates les plus communs sont les hackers, les crackers et toute personne copiant du software pour son utilisation personnelle ou pour la vente. 
 	Nous laisserons de côté la copie de software qui n'est pas abordée dans le film "Traque sur Internet" pour nous intéresser de plus près à ceux qui veulent prendre le contrôle d'un système informatique alors qu'ils n'y sont pas autorisés. 
 -Source: http://sef.xena.ad/lcf/traque/hackers.htm
+
+26)Qui a inventé la souris ?
+	La souris a été inventée en 1963 par Douglas Engelbart du Stanford Research Institute et présentée au public en 1968.
+-Source: https://fr.wikipedia.org/wiki/Souris_(informatique)
