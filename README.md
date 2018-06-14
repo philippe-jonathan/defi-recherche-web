@@ -68,8 +68,59 @@
 8)Qui est Steve Wozniak ?
 	Steve Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
 	Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.
-	Pour le "Apple I" il a fabriquer la carte mère et ils ont fait tout ca dans le garage des parents de Jobs, par la suite ils on commencé a vendre leurs produit chez un petit commercant.
+	Pour le "Apple I" il a conceptualisé la carte mère et avec Jobs ils ont fait tout ca dans le garage des parents de Jobs, par la suite ils ont commencés a vendre leurs produits chez un petit commercant.
 -Source: https://fr.wikipedia.org/wiki/Steve_Wozniak 
 		Et quelques souvenir du film "Steve Jobs".
 
 9)D'où vient l'expression "bug informatique" ?
+	L’expression nous vient de Grace Murray Hopper. Engagée en 1943 dans la marine états-unienne, elle est chargée de programmer le Harvard Mark I, considéré comme le premier vrai ordinateur automatique.
+	Mais un soir de l’été 1945….
+	Le fabuleux joujou des mathématiciens, capable de faire la somme de deux nombre de 23 chiffres en moins de 3/10ième de seconde,… stoppe tout fonctionnement…
+	Imaginez l’angoisse… Les heures d’auscultation…
+	quand soudain Grace, telle une Lucky Luke de l’informatique, dégaine… sa pince à épiler…
+	et retire des circuits une mite venue s’en griller une dernière…
+	Grace a pris soin de noter tout cela dans le carnet de bord avec la mention « first actual case of bug being found ».Cette plaisanterie est à l’origine de notre expression « bug informatique ».
+-Source: http://astucieux-filemaker.com/un-bug-est-ne/
+
+10)Quels sont les communautés de développeurs à Toulouse et quels sont leurs prochains évènements ?
+Les communautées:   
+			-GDG-Toulouse (Google Developer Group Toulouse).
+			-AFUP-Toulouse (Association française des Utilisateurs de PHP (Toulouse)).
+			-WP-Toulouse (WordPress Toulouse).
+Leurs prochains évènements:
+			-GDG-T: Le 5 Juin 2018, GDG Banking - Open Banking & Smart Contracts #Blockchain #Ethereum.
+			-AFUP-T: Le 18 Juin 2018, Apéro PHP : Drupal8, PHPTour, Algolia et Élections.
+			-WP-T: Le 5 Décembre 2017, MEETUP#13.
+
+
+
+-Source: 
+	- http://www.gdgtoulouse.fr/events/
+	- https://afup.org/meetups/?q=&hPP=14&idx=afup_meetups&p=0&dFR[office.label][0]=Poitiers&dFR[office.label][1]=Toulouse
+	- http://www.wp-toulouse.fr/evenements/
+
+11)Quels sont les prochains rendez-vous tech de Toulouse ?
+	Les prochains rendez-vous Tech de Toulouse sont:
+	 - French Tech Toulouse: 
+	 			- Web2Day 2018 (du 13 au 15 Juin 2018).
+	 			- DLD Tel Aviv Innovation Festival (du 5 au 7 Septembre 2018).
+	 			- EmTech Europe : MIT Technology Review (le 2 et 3 Octobre 2018).
+	 - Sogeti:
+	 		- Toulouse Space Show (du 26 au 28 Juin 2018).
+	 		- Capgemini: Capgemini Week of Innovation Networks 2018 (du 24 au 28 Septembre 2018).
+	 - Futurapolis:
+	 		- Futurapolis 2018 (le 16 et 17 Novembre 2018).
+
+
+
+-Source: 
+- https://www.frenchtechtoulouse.com/fr/mise-sur-orbite/#introductionEvenements
+- https://www.sogeti-hightech.fr/actualites/evenements/evenements2018/
+- https://www.toulousespaceshow.eu/tss18/
+- https://www.capgemini.com/capgemini-week-of-innovation-networks/
+- https://www.futurapolis.com/
+
+12)Qui est Aaron Swartz ?
+	Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à New York, était un informaticien, écrivain, militant politique et hacktiviste américain.
+	Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance est un moyen d'émancipation et de justice.
+	Aaron Swartz a eu un rôle décisif dans l'essor de l'Internet, tant sur le plan technique (notamment en développant le format de flux RSS et en participant à l'invention des licences Creative Commons (CC) que sur le plan de la gouvernance juridique et politique en manifestant contre le projet de la loi SOPA (Stop Online Piracy Act).
