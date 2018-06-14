@@ -124,3 +124,30 @@ Leurs prochains évènements:
 	Aaron Swartz, né le 8 novembre 1986 à Chicago et mort le 11 janvier 2013 à New York, était un informaticien, écrivain, militant politique et hacktiviste américain.
 	Fervent partisan de la liberté numérique, il consacra sa vie à la défense de la « culture libre », convaincu que l'accès à la connaissance est un moyen d'émancipation et de justice.
 	Aaron Swartz a eu un rôle décisif dans l'essor de l'Internet, tant sur le plan technique (notamment en développant le format de flux RSS et en participant à l'invention des licences Creative Commons (CC) que sur le plan de la gouvernance juridique et politique en manifestant contre le projet de la loi SOPA (Stop Online Piracy Act).
+-Source: https://fr.wikipedia.org/wiki/Aaron_Swartz
+
+13)Qu’est-ce que le projet GNU ?
+	Le projet GNU est un projet informatique dont les premiers développements ont été réalisés en janvier 1984 par Richard Stallman pour développer le système d'exploitation GNU. Le projet est maintenu par une communauté de hackers organisée en sous-projets.
+	Chaque brique du projet est un logiciel libre utilisable de par sa nature dans des projets tiers, mais dont la finalité est de s’inscrire dans une logique cohérente, avec l’ensemble des sous-projets en vue de la réalisation d’un système d’exploitation complet et entièrement libre, et avec pour stratégie, l’utilisation de l’existant.
+	C’est ainsi que la première version fonctionnelle du système GNU est construite en 1992 avec l’utilisation du noyau Linux, un projet développé indépendamment du projet GNU par Linus Torvalds. Mais si la « rencontre GNU/Linux » permet l’assemblage d’un système libre, le développement d’un micro-noyau reste aujourd’hui l’un des objectifs techniques du projet.
+	Le projet est soutenu par la Free Software Foundation, en assurant notamment sa protection légale par la gestion de ses droits d'auteurs. Les objectifs et la philosophie du projet sont par ailleurs définis dans le manifeste GNU, lequel représente l’acte fondateur du mouvement du logiciel libre. Le projet GNU s’inscrit enfin dans une démarche sociale en plaçant les fondements philosophiques du mouvement devant les objectifs techniques du projet.
+-Source: https://fr.wikipedia.org/wiki/Projet_GNU
+
+14)Quelles sont les différences entre le Http et le Https ?
+	Le "S" de https signifie Secure pour nous dire que se site est sécurisé.
+
+	Le protocole http est un protocole :
+
+	- Qui permet de recevoir des informations des serveurs web (serveurs http)
+	- Qui permet d’envoyer des informations vers les serveurs web,
+	- Et surtout que tous ces échanges se sont font sans aucun cryptage.
+
+	Le protocole https est composé de 2 protocoles :
+
+	- Le protocole http
+	- Le protocole ssl : c’est lui qui donne le S au protocole httpS (S pour Secure)
+
+-Source: https://www.culture-informatique.net/cest-quoi-difference-http-https/
+Et connaissances.
+
+
