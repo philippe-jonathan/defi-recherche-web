@@ -168,3 +168,9 @@ Et connaissances.
 	En théorie la complexité d'une attaque par force brute est une fonction exponentielle de la longueur du mot de passe, la rendant en principe impossible pour des mots de passe de longueur moyenne; En pratique des optimisations heuristiques peuvent donner des résultats dans des délais beaucoup plus courts.
 -Source: https://fr.wikipedia.org/wiki/Attaque_par_force_brute
 Et connaissances.
+
+19)Qui est Linus Torvalds ?
+	Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais,.
+	Il est connu pour avoir créé en 1991 (à 22 ans) le noyau Linux dont il continue de diriger le développement. Il en est considéré comme le « dictateur bienveillant ».
+	Il a également créé le logiciel de gestion de versions décentralisée Git et le logiciel d'enregistrement et de planification des plongées Subsurface (en). Il a été honoré, avec Shinya Yamanaka, du prix Millennium Technology, en 2012, décerné par la Technology Academy Finland (en) « en reconnaissance pour sa création d'un nouveau système d'exploitation open source pour les ordinateurs ayant conduit au noyau Linux, largement utilisé. ». Il est également lauréat 2014 du Computer Pioneer Award, décerné par l'IEEE Computer Society.
+-Source: https://fr.wikipedia.org/wiki/Linus_Torvalds
