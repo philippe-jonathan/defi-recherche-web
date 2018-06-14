@@ -190,3 +190,7 @@ Et connaissances.
 22)Quelle est votre adress IP actuelle ?
 	Mon adresse IP actuelle est: 89.87.134.88
 -Source: https://whatismyipaddress.com/fr/mon-ip
+
+23)Et celle de votre smartphone ?
+	89.87.134.88
+-Source: https://whatismyipaddress.com/fr/mon-ip
