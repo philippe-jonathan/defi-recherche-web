@@ -218,3 +218,7 @@ Et connaissances.
 	-Language: "Basic" (- https://stackoverflow.com/questions/739561/what-programming-languages-were-used-to-go-to-the-moon)
 	-Nb collaborateurs: 9 (- https://www.capcomespace.net/dossiers/espace_US/apollo/1969.htm)
 	-Durée de la mission: 195h19 (- https://fr.wikipedia.org/wiki/Apollo_11)
+
+29)Qu’est-ce que Agile Manifesto ?
+	Le Manifeste pour le développement Agile de logiciels est un texte rédigé par 17 experts du développement d'applications informatiques sous la forme de plusieurs méthodes dites agiles. Ces experts estimaient que le traditionnel cycle de développement en cascade ne correspondait plus aux contraintes et aux exigences des organisations en évolution rapide. Les méthodes agiles ne sont pas apparues avec l’Agile manifesto en 2001 mais celui-ci détermine leur commun dénominateur et consacre le terme d'« agile » pour les référencer. Les valeurs et principes du Manifeste agile sont défendus par l'Agile Alliance.
+-Source: https://fr.wikipedia.org/wiki/Manifeste_agile
