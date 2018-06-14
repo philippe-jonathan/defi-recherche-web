@@ -212,3 +212,9 @@ Et connaissances.
 27)Qui est Margaret Hamilton ?
 	Margaret Heafield Hamilton, née Heafield le 17 août 1936, est une informaticienne, ingénieure système et chef d'entreprise américaine. Elle était directrice du département génie logiciel (« software engineering », terme de son invention) au sein du MIT Instrumentation Laboratory qui conçut le système embarqué du programme spatial Apollo. En 1986, elle fonde la société Hamilton Technologies, Inc. (Cambridge, Massachusetts) à partir de ses travaux entrepris au MIT.
 -Source:https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)
+
+28)Retrouvez le code source de la mission Apollo 11.
+	- https://github.com/chrislgarry/Apollo-11
+	-Language: "Basic" (- https://stackoverflow.com/questions/739561/what-programming-languages-were-used-to-go-to-the-moon)
+	-Nb collaborateurs: 9 (- https://www.capcomespace.net/dossiers/espace_US/apollo/1969.htm)
+	-Durée de la mission: 195h19 (- https://fr.wikipedia.org/wiki/Apollo_11)
