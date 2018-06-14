@@ -198,3 +198,9 @@ Et connaissances.
 24)Qu’est-ce que le développement en cycle V ?
 	Le modèle du cycle en V (par comparaison avec les méthodes dites agiles) est un modèle conceptuel de gestion de projet imaginé à la suite du problème de réactivité du modèle en cascade. Il permet, en cas d'anomalie, de limiter un retour aux étapes précédentes. Les phases de la partie montante doivent renvoyer de l'information sur les phases en vis-à-vis lorsque des défauts sont détectés, afin d'améliorer le logiciel.
 -Source: https://fr.wikipedia.org/wiki/Cycle_en_V
+
+25)Les Hackers sont-ils des hors-la-loi ?
+	Le terme de pirate englobe toutes les personnes qui enfreignent les lois de l'informatique. Ces lois sont établies par chaque pays, cela pose un problème car Internet est accessible à tous les habitants de la planète et certains actes sont des infractions pour les uns mais pas obligatoirement pour les autres. (Informatique et Liberté) 
+	Le pirate est une personne qui viole les droits d'autrui ou des sociétés à son profit. Les pirates les plus communs sont les hackers, les crackers et toute personne copiant du software pour son utilisation personnelle ou pour la vente. 
+	Nous laisserons de côté la copie de software qui n'est pas abordée dans le film "Traque sur Internet" pour nous intéresser de plus près à ceux qui veulent prendre le contrôle d'un système informatique alors qu'ils n'y sont pas autorisés. 
+-Source: http://sef.xena.ad/lcf/traque/hackers.htm
