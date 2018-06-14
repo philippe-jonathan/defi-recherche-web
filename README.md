@@ -222,3 +222,6 @@ Et connaissances.
 29)Qu’est-ce que Agile Manifesto ?
 	Le Manifeste pour le développement Agile de logiciels est un texte rédigé par 17 experts du développement d'applications informatiques sous la forme de plusieurs méthodes dites agiles. Ces experts estimaient que le traditionnel cycle de développement en cascade ne correspondait plus aux contraintes et aux exigences des organisations en évolution rapide. Les méthodes agiles ne sont pas apparues avec l’Agile manifesto en 2001 mais celui-ci détermine leur commun dénominateur et consacre le terme d'« agile » pour les référencer. Les valeurs et principes du Manifeste agile sont défendus par l'Agile Alliance.
 -Source: https://fr.wikipedia.org/wiki/Manifeste_agile
+
+30)Trouvez un screenshot de la première version de Facebook
+	- https://web.archive.org/web/20080902045512/https://fr-fr.facebook.com/
