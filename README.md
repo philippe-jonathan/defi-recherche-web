@@ -225,3 +225,7 @@ Et connaissances.
 
 30)Trouvez un screenshot de la première version de Facebook
 	- https://web.archive.org/web/20080902045512/https://fr-fr.facebook.com/
+
+31)Quelle est la répartition des systèmes d'exploitation pour les serveurs (uniquement) ?
+	- http://www.developpez.com/public/images/news/Server-Operating-System-Market-Share-20161.png
+-Source de l'image: https://www.developpez.com/actu/101333/Spiceworks-au-moins-une-entreprise-sur-deux-dans-le-monde-utilise-encore-Windows-Server-2003-quels-systemes-serveur-utilisez-vous-en-entreprise/
