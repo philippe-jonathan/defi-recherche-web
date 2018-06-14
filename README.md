@@ -182,3 +182,7 @@ Et connaissances.
 	.org -> 11.99€HT/an
 	.eu -> 7.99€HT/an
 -Source: http://www.netissime.com/nom_de_domaine/tarif-nom-de-domaine/
+
+21)Quels sont les différents services d'emailing disponibles ?
+	Les diferences entre les services d'emailing sont les fonctionnalitées: Campagnes emailing, Emails transactionnels, SMS marketing, SMS transactionnels, Marketing Automation.
+-Source: https://fr.sendinblue.com/blog/comparatif-logiciels-emailing/
