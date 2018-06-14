@@ -45,3 +45,31 @@
 	Le 127.0.0.1 permet de tester le fonctionnement du protocole IP sur un PC. Le localhost se réfère à l'ordinateur local et est associé à l'adresse IP 127.0.0.1 en IPV4. Cette notion est utilisée pour simuler des communications IP sur un ordinateur mais sans envoyer de messages sur le réseaux.
 -Source: http://www.materiel-informatique.be/localhost.php
 
+4)Que sont le copyright et le copyleft ?
+	Le copyright, souvent indiqué par le symbole ©, est, l’ensemble des prérogatives exclusives dont dispose une personne physique ou morale sur une œuvre de l’esprit originale.
+-Source: https://fr.wikipedia.org/wiki/Copyright
+	Le copyleft, parfois traduit comme "gauche d'auteur", est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où cette même autorisation reste préservée.
+	Le concept de copyleft a été introduit au cours des années 1970 pour désigner une forme des licences de propriété intellectuelle.
+-Source: https://fr.wikipedia.org/wiki/Copyleft
+
+5)Que sont les Creatives Commons ?
+	Creative Commons est une organisation à but non lucratif qui a pour dessein de faciliter la diffusion et le partage des oeuvres tout en accompagnant les nouvelles pratiques de création à l’ère numerique.
+	Creative Commons propose des contrats-type ou licences pour la mise à disposition d’œuvres en ligne. Inspirés par les licences libres, les mouvements open source et open access, ces licences facilitent l’utilisation d’œuvres (textes, photos, musique, sites web, etc).
+-Source: http://creativecommons.fr/
+
+6)Qui est Grace Hopper ?
+	Grace Murray Hopper, née le 9 décembre 1906 à New York et morte le 1er janvier 1992 dans le comté d'Arlington, est une informaticienne américaine et Rear admiral (lower half) de la marine américaine. Elle est la conceptrice du premier compilateur en 1951 (A-0 System) et du langage COBOL en 1959.
+-Source: https://fr.wikipedia.org/wiki/Grace_Hopper
+
+7)Qu'est-ce que Qwant ?
+	Qwant est un moteur de recherche qui respect votre vie privée. Conçu et basé en France, Qwant est le premier moteur de recherche qui protège les libertés de ses utilisateurs et veille à préserver l'écosystème numérique. Ces mots clés : vie privée et neutralité.
+-Source: https://about.qwant.com/fr/
+
+8)Qui est Steve Wozniak ?
+	Steve Wozniak, né le 11 août 1950 à San José, aussi appelé Woz, est un informaticien, professeur d'informatique et électronicien américain.
+	Il est cofondateur de la société Apple Computer avec Steve Jobs et Ronald Wayne, et concepteur des premiers Apple (dont Apple I, Apple II, Apple III, Lisa et divers périphériques), et est un des pionniers de l'industrie micro-informatique.
+	Pour le "Apple I" il a fabriquer la carte mère et ils ont fait tout ca dans le garage des parents de Jobs, par la suite ils on commencé a vendre leurs produit chez un petit commercant.
+-Source: https://fr.wikipedia.org/wiki/Steve_Wozniak 
+		Et quelques souvenir du film "Steve Jobs".
+
+9)D'où vient l'expression "bug informatique" ?
