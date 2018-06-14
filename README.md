@@ -186,3 +186,7 @@ Et connaissances.
 21)Quels sont les différents services d'emailing disponibles ?
 	Les diferences entre les services d'emailing sont les fonctionnalitées: Campagnes emailing, Emails transactionnels, SMS marketing, SMS transactionnels, Marketing Automation.
 -Source: https://fr.sendinblue.com/blog/comparatif-logiciels-emailing/
+
+22)Quelle est votre adress IP actuelle ?
+	Mon adresse IP actuelle est: 89.87.134.88
+-Source: https://whatismyipaddress.com/fr/mon-ip
