@@ -150,4 +150,21 @@ Leurs prochains évènements:
 -Source: https://www.culture-informatique.net/cest-quoi-difference-http-https/
 Et connaissances.
 
+15)Qui est Richard Stallman ?
+	Richard Matthew Stallman (né à Manhattan, le 16 mars 1953), connu aussi sous les initiales rms (en minuscules), est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft ». Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU (GCC), le débogueur GNU (gdb) mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.
+-Source: https://fr.wikipedia.org/wiki/Richard_Stallman
 
+16)Comment fonctionnent les bang de Duck Duck Go ?
+	DuckDuckGo est un méta-moteur de recherche dont la société éditrice est située à Valley Forge en Pennsylvanie. Il se distingue en utilisant les informations d'externalisation ouverte provenant d'autres sites (comme Wikipédia) dans le but d'enrichir les résultats traditionnels et d'améliorer la pertinence. Il propose aussi son propre moteur de recherche.
+	La philosophie de ce moteur de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateurs, (adresses IP et traces numériques comme la signature du navigateur). Cependant, par défaut, DuckDuckGo relaie des liens sponsorisés (publicités) sur son moteur de recherche.
+-Source: https://fr.wikipedia.org/wiki/DuckDuckGo
+
+17)Qui est Marissa Mayer ?
+	Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Après 13 ans passés chez Google en tant que vice-présidente responsable des services de cartographie et de géolocalisation, elle occupe de 2012 à 2017 le poste de PDG de Yahoo!.
+-Source: https://fr.wikipedia.org/wiki/Marissa_Mayer
+
+18)Qu’est-ce qu’une attaque “brute force” ?
+	Une attaque brute force est une methode qui consiste a éssayer de trouver un mot de passe par le biais d'un programme qui test des chaines de caractères (lettre minuscules, majuscules, nombres, caractères spéciaux...) jusqu'a trouver la bonne chaine qui est identique au mot de passe. Le but est donc de trouver un mot de passe en essayant toutes les combinaisons possibles une à une (des dixaines par secondes).
+	En théorie la complexité d'une attaque par force brute est une fonction exponentielle de la longueur du mot de passe, la rendant en principe impossible pour des mots de passe de longueur moyenne; En pratique des optimisations heuristiques peuvent donner des résultats dans des délais beaucoup plus courts.
+-Source: https://fr.wikipedia.org/wiki/Attaque_par_force_brute
+Et connaissances.
